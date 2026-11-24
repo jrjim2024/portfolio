@@ -1,8 +1,0 @@
-# Demi Studio ? https://demi-studio.vercel.app
-User-agent: *
-Allow: /
-
-Allow: /assets/
-Allow: /og-image.jpg
-
-Sitemap: https://demi-studio.vercel.app/sitemap.xml

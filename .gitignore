@@ -1,0 +1,23 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
+npm-debug.log*
+*.tsbuildinfo
+.vercel
+
+# 環境變數（含本機／正式機密，勿提交）
+.env
+.env.*
+!.env.example
+
+# 原始未壓縮素材（本機備份，不部署、不進版控）
+assets-source
+
+.demi-local/

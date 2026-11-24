@@ -1,0 +1,29 @@
+{
+  "name": "Demi Studio — 德米攝影 Demi Photo Studio",
+  "short_name": "Demi Studio",
+  "description": "德米攝影 Demi Photo Studio｜台北婚紗攝影、婚禮紀錄與商業／品牌形象攝影。",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F7",
+  "theme_color": "#111111",
+  "categories": [
+    "photography",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
